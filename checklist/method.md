@@ -8,3 +8,5 @@ Does your metadata (like README.md) awnser some questions about method?
 - [ ] What is the hardware specification/requirements?
 - [ ] Are there any hyperparameters?
 - [ ] Are the code and method presented open-source?
+- [ ] What is the protocol to Run the code?
+- [ ] What is the table of results ?
