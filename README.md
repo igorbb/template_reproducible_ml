@@ -35,7 +35,7 @@ A better and didactic deep dive is presented in [The turing way Guide for Reprod
 # Project goal.
 
 Here is where one should have a description of your project goal.
-Bonus points if you include Hypothesis/Prediction/Concussion.
+Bonus points if you include Hypothesis/Prediction/Conclusion.
 
 In our case, our goal is to showcase a toy example of reproducibility.
 We have a code [POC.ipynb](../master/code/POC.ipynb) that was run locally. 
