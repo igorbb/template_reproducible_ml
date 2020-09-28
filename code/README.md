@@ -53,7 +53,13 @@ Yes, as defined in [License](../LICENSE)
 
 What is the protocol to Run the code?
 
-- Run each cell of [POC.ipynb](https://mybinder.org/v2/gh/igorbb/template_reproducible_ml/f8453ccb532c51ea46f7be096f888d5db6951e72) by pressing the play button
+
+    Use [binder]((#binder)) to run a jupyter notebook server
+    Jump to `code/POC.ipynb` to run the code and verify the result.
+    
+    Run each cell of `code/POC.ipynb` by pressing the play button
+
+
 
 
 What is the table of results ?
