@@ -1,0 +1,23 @@
+version: "2.3"
+services:
+  oneoff:
+    network_mode: bridge
+    build:
+      context: .
+      dockerfile: binder/Dockerfile
+      shm_size: "2gb"
+      args:
+        NB_UID: $UID
+        NB_USER: $USER
+    #Uncomment next line to get Nvidia-support ( see more at https://github.com/NVIDIA/nvidia-docker)
+    # runtime: nvidia
+    environment:
+      NVIDIA_VISIBLE_DEVICES: 0
+    volumes:
+      - ./code:/home/$USER/code
+    ports:
+      - 8888:8888
+    stdin_open: true
+    tty: true
+    shm_size: "2gb"
+    command: jupyter-lab --ip 0.0.0.0 
