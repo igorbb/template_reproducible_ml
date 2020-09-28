@@ -51,3 +51,12 @@ Is the code open-source?
 Yes, as defined in [License](../LICENSE)
 ```
 
+What is the protocol to Run the code?
+
+- Run each cell of [POC.ipynb](https://mybinder.org/v2/gh/igorbb/template_reproducible_ml/f8453ccb532c51ea46f7be096f888d5db6951e72) by pressing the play button
+
+
+What is the table of results ?
+```
+x = 0.5488135039273248
+```

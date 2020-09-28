@@ -12,9 +12,8 @@ If you are publishing data this is a proposed checklist to make sure your data i
 - [ ] Data is citable / Unique Identifier / DOI / Versioning
 - [ ] License Specification
 - [ ] Data is indexiable/searchable
-- [ ] Acessibility Protocol
-- [ ] Reusability Protocol
-- [ ] Availability of Metadata (Ideally for each file)
+- [ ] FAIR principles ( Check [go-fair](https://www.go-fair.org/fair-principles/))
+- [ ] Availability of Metadata (Ideally for each file.)
 
 For data repository we recommend to use a private new dataset in kaggle.com, until your work is ready for publication.
 You can upload you data there and it has options to define a DOI, metadata and documentation so one can achieve all the marks of this list.

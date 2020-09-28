@@ -14,12 +14,13 @@ Use the following checklists to make sure your work is striving for reproducibil
 - Here is a checklist for code reproducibility : [Code](../master/checklist/code.md)
 - Here is a checklist for method documentation : [Method](../master/checklist/method.md)
 - If you are publishing data : [Data](../master/checklist/data.md)
+- [Joelle Pineau has a great checklist for machine learning reproducibility](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
 
 
 ### Deep Dive   
 
 This template repo is a simple and barebone solution. 
-A better deep dive is presented in [The turing way Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+A better and didatic deep dive is presented in [The turing way Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 .
 
 # Project goal.
@@ -41,6 +42,10 @@ They are listed below from prefered to least prefered order.
 
 Use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorbb/template_reproducible_ml/master) to get a running jupyter notebook.
 Jump to `POC.ipynb` to run the code and verify the result.
+What is the protocol to Run the code?
+
+ - Run each cell of [POC.ipynb](https://mybinder.org/v2/gh/igorbb/template_reproducible_ml/f8453ccb532c51ea46f7be096f888d5db6951e72) by pressing the play button
+
 
 ### Option 2
 
