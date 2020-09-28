@@ -39,7 +39,7 @@ Bonus points if you include Hypothesis/Prediction/Conclusion.
 
 In our case, our goal is to showcase a toy example of reproducibility.
 We have a code [POC.ipynb](../master/code/POC.ipynb) that was run locally. 
-We believe that we can have the code achieve the same result while running on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorbb/template_reproducible_ml/master)
+We believe that we can have the code achieve the same result while running on [binder]
 
 
 ## Reproducible run
